@@ -27,7 +27,7 @@ def insert_patient(patient: Patient):
 patient_info = {
     "name": "John Doe",
     "age": 30,
-    "email":"aws@gmail.com"
+    "email":"aws@gmail.com",
     "married": False,
     "allergies": ["pollens", "nuts"],
     "contacts": {
