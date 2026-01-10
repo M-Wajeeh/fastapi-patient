@@ -2,4 +2,5 @@ fastapi
 uvicorn
 pydantic
 pydantic[email]
+pydantic[model_validator]
 starlette
